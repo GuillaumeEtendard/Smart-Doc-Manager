@@ -1,0 +1,1 @@
+# Smart Doc Manager Frontend
